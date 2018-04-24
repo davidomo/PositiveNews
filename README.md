@@ -6,4 +6,4 @@ In the VADER Sentiment Analysis, words are analyized and ranked based on their p
 A score of 0 in VADER means the sentiment is completely neutral, while 1 is completly positive and -1 completly negative. A good way to think about it is taking the score and converting it to a percentage: A score of 1 would be 100% positive and probobly only contains words like happiness, rainbows, and love.
 
 In order to run this script locally for yourself, you will need your own Twitter API keys to pull data.
-Visit https://developer.twitter.com/ for mroe information.
+Visit https://developer.twitter.com/ for more information.
